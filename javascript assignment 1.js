@@ -1,11 +1,4 @@
-// var yourName = prompt("fine boy, what's your name")
-// var yourAge = prompt("How old are you") 
-// // var yourPersonality = prompt("congratulations Paul")
-// alert("You are welcome " + yourName + ". you are " +yourAge + " . Congratulations , you are welcome " )
-// var name = prompt ("what is your name")
-// var firstletter = (name.slice(0,1)).toLocaleUpperCase()
-// var restletters = (name.slice(1,120)).toLocaleLowerCase()
-// alert(`You are welcome ${firstletter}${restletters}`)
+
 
 var yourName = prompt("Hey Programmer, what's your name");
 var yourAge = prompt("How old are you");
